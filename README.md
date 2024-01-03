@@ -4,6 +4,10 @@
 
 This project is a web application built using Express.js and EJS templating engine. It generates random band names by combining adjectives and nouns. The application serves as a fun way to come up with unique and creative names for bands.
 
+The project was completed as part of the [The Complete 2021 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) course on Udemy.
+
+![Screenshot of the Band Name Generator](./public/images/screenshot.png)
+
 ## Key Learnings
 
 - **Express.js and EJS Integration**: Learned to set up an Express server and render views using the EJS templating engine.
